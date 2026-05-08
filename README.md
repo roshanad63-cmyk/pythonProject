@@ -8,3 +8,12 @@ git add .
 git status
 git remote add origin https://github.com/roshanad63-cmyk/pythonProject
 git push -u origin main
+git init
+git config user.email "milanparajuli0322@gmail.com"
+git config user.email
+git status
+git add .
+git status
+git commit -m "some message"
+git branch -M main
+git push -u origin main
